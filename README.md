@@ -27,7 +27,7 @@ Thank you for considering contributing to PrepSphere repository! Your contributi
   ```bash
   git clone https://github.com/your-username/cat-exam-preparation.git
   ```
-  (Replace ```bash your-username ``` with your Github username)
+  (Replace ```your-username ``` with your Github username)
   
 ### 3. Create a New Branch
 - Navigate into the cloned directory and create a new branch for your feature or fix:
