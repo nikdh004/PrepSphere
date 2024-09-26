@@ -30,37 +30,36 @@ Thank you for considering contributing to PrepSphere repository! Your contributi
   (Replace ```bash your-username ``` with your Github username)
   
 ### 3. Create a New Branch
--Navigate into the cloned directory and create a new branch for your feature or fix:
+- Navigate into the cloned directory and create a new branch for your feature or fix:
 ```bash
 cd cat-exam-preparation
 git checkout -b feature/your-feature-name
 ```
 
 ### 4. Make Your Changes
--Edit or add the files you wish to contribute. Ensure that your changes are aligned with the project goals.
+- Edit or add the files you wish to contribute. Ensure that your changes are aligned with the project goals.
 
 ### 5. Commit Your Changes
--Once you've made your changes, stage and commit them with a descriptive message:
+- Once you've made your changes, stage and commit them with a descriptive message:
 ```bash
 git add .
 git commit -m "Brief description of your changes"
 ```
 
 ### 6. Push to Your Fork
--Push your changes to your forked repository:
+- Push your changes to your forked repository:
 ```bash
 git push origin feature/your-feature-name
 ```
 
 ### 7. Create a Pull Request
--Go to the original repository and click on the Pull Requests tab.
--Click on the New Pull Request button and select your branch. Provide a detailed description of your changes, then submit the pull request.
+- Go to the original repository and click on the Pull Requests tab.
+- Click on the New Pull Request button and select your branch. Provide a detailed description of your changes, then submit the pull request.
 
 ## 📚 Contribution Guidelines
--Clarity: Ensure your contributions are clear and well-documented.
--Relevance: Contributions should be relevant to the CAT examination preparation.
--Respect: Treat all contributors with respect and maintain a positive environment.
+- **Clarity**: Ensure your contributions are clear and well-documented.
+- **Relevance**: Contributions should be relevant to the CAT examination preparation.
+- **Respect**: Treat all contributors with respect and maintain a positive environment.
 
-🙏 Thank You!
-
+**🙏 Thank You!**
 
