@@ -47,6 +47,55 @@ Here are some recommended books and resources:
 - **Revision**: Regularly review previously studied material to reinforce memory.
 - **Focus on Weak Areas**: Identify and work on your weaker subjects or topics.
 
+# 🌐 Practice Resources
+
+To excel in the CAT examination, utilizing various practice resources is essential. Below are some recommended platforms and channels to help you prepare effectively.
+
+## Online Platforms
+- **[Unacademy](https://unacademy.com/)**: Offers a wide range of courses and resources tailored for CAT preparation.
+- **[Byju's](https://byjus.com/cat/)**: Provides comprehensive learning modules and practice tests.
+- **[Career Launcher](https://www.careerlauncher.com/)**: Known for its structured coaching and mock test series.
+
+## YouTube Channels
+- **[CATKing](https://www.youtube.com/c/CATKing)**: Features insightful lectures and tips for CAT aspirants.
+- **[Unacademy CAT](https://www.youtube.com/channel/UCA3Y8qk7dm9H3cNlWh9aIhA)**: Offers a plethora of videos on various CAT topics and strategies.
+
+---
+
+# 🧪 Mock Tests
+
+Taking mock tests is crucial for preparation. Here are some platforms offering free and paid mock tests:
+
+- **[TCY Online](https://www.tcyonline.com/)**: A platform that provides a variety of mock tests and practice questions.
+- **[TestFunda](https://www.testfunda.com/)**: Known for its extensive collection of mock tests designed for CAT aspirants.
+- **[Cracku](https://cracku.in/)**: Offers both free and paid mock tests along with study material.
+
+---
+
+# 📈 Conclusion
+
+With the right resources, strategies, and consistent effort, you can excel in the CAT examination. Stay motivated and keep pushing your limits!
+
+---
+
+# ❓ FAQs
+
+### What is the eligibility for CAT?
+Candidates must hold a Bachelor’s degree with at least 50% marks.
+
+### How many attempts are allowed for CAT?
+There is no restriction on the number of attempts.
+
+### What is the marking scheme for CAT?
+Each correct answer earns 3 marks, and 1 mark is deducted for each incorrect answer.
+
+For more information, feel free to check the [official CAT website](https://iimcat.ac.in/).
+
+---
+
+Happy studying! 🚀
+
+
 ### Tips Visualization
 ```mermaid
 graph LR;
@@ -58,3 +107,5 @@ graph LR;
     E --> F[Take Mock Tests]
     F --> G[Review Performance]
     G --> H[Revise Topics]
+---
+
