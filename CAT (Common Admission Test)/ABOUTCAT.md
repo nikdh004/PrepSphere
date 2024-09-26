@@ -2,7 +2,7 @@
 
 Welcome to the **CAT Examination Preparation** repository! This guide aims to help you navigate your CAT preparation journey with effective strategies, tips, and valuable resources.
 
-![CAT Preparation](https://wallpapercave.com/wp/wp4006083.jpg) 
+![CAT Preparation](https://admissionsmba.in/wp-content/uploads/2024/07/catexamss-1140x458.jpeg) 
 
 ## 🚀 Table of Contents
 1. [About CAT](#about-cat)
