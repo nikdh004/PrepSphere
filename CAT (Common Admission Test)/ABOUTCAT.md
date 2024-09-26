@@ -28,9 +28,6 @@ A solid preparation strategy can make a significant difference. Here are some ke
 - **Create a Study Schedule**: Dedicate specific hours each day for preparation.
 - **Strengthen Fundamentals**: Focus on basic concepts in math and English.
 
-![Study Schedule]()
-<img src="(https://i0.wp.com/bettertoeflscores.com/bettertoeflscores.com/wp-content/uploads/2018/12/TOEFL-study-schedule.png?w=799&ssl=1)" alt="Study Schedule" width="400" />
-
 ---
 
 ## 📚 Study Materials
