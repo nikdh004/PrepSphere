@@ -2,7 +2,7 @@
 
 Welcome to the **CAT Examination Preparation** repository! This guide aims to help you navigate your CAT preparation journey with effective strategies, tips, and valuable resources.
 
-![CAT Preparation](https://via.placeholder.com/800x300.png?text=CAT+Preparation+Journey](https://wallpapercave.com/wp/wp4006083.jpg) 
+![CAT Preparation](https://wallpapercave.com/wp/wp4006083.jpg) 
 
 ## 🚀 Table of Contents
 1. [About CAT](#about-cat)
